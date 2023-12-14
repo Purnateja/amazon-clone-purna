@@ -33,5 +33,6 @@ Proceed to checkout and complete the payment.
 Please take a look at your order history.
 
 Please feel free to contribute to the project or report any issues you might have. Happy shopping!
-![image](https://github.com/Purnateja/amazon-clone-purna/assets/93757887/df4a3455-fadf-41f7-97dc-25b6ff637f9e)
+![Screenshot (538)](https://github.com/Purnateja/amazon-clone-purna/assets/153704033/8fb91aaa-fabf-4cbb-9cb2-7fe9d4df246f)
+
 
