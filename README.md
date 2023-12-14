@@ -1,7 +1,6 @@
-# Amazon_Clone_Harshit_Singla
+# Amazon_Clone_Purna
 
-**Amazon Clone by Harshit Singla**
-https://harshitsinglaamazon.000webhostapp.com/
+**Amazon Clone by Purna**
 **Overview**
 This Amazon Clone project is a result of my dedication and learning in the web development course. As an aspiring developer, I aimed to recreate the essential features of the Amazon website to showcase my skills in full-stack web development.
 
@@ -22,7 +21,7 @@ Authentication: Firebase Authentication
 Payment Processing: Stripe API
 
 **Installation**
-Clone the repository: git clone [https://github.com/Bada-Don/Amazon_Clone_Harshit_Singla]
+Clone the repository: git clone [https://github.com/Purnateja/amazon-clone-purna]
 Navigate to the project folder: cd amazon-clone
 Install dependencies: npm install
 Run the application: npm start
@@ -34,5 +33,5 @@ Proceed to checkout and complete the payment.
 Please take a look at your order history.
 
 Please feel free to contribute to the project or report any issues you might have. Happy shopping!
-![image](https://github.com/Bada-Don/Amazon_Clone_Harshit_Singla/assets/93757887/df4a3455-fadf-41f7-97dc-25b6ff637f9e)
+![image](https://github.com/Purnateja/amazon-clone-purna/assets/93757887/df4a3455-fadf-41f7-97dc-25b6ff637f9e)
 
